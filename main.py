@@ -1,3 +1,4 @@
-from funcs import print
+import funcs
+print(funcs.sum_)
+print(funcs.sub_)
 
-(a + b)
